@@ -5,8 +5,8 @@
 shell-novice
 ============
 
-An introduction to the Unix shell for people who have never used the command line before.
-Please see <https://swcarpentry.github.io/shell-novice/> for a rendered version of this material,
+Une introduction au terminal Unix pour les personnes qui n'ont jamais utilisé le terminal auparavant.
+Le lien <https://swcarpentry.github.io/shell-novice-fr/> formatté pour l'enseignement.
 [the lesson template documentation][lesson-example]
 for instructions on formatting, building, and submitting material,
 or run `make` in this directory for a list of helpful commands.
